@@ -1,0 +1,81 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "name": "Chanh",
+        "image": "chanh.jpg",
+        "price": 10000,
+        "describe": "Có thể nói đây là hình mẫu làm trắng da bằng trái cây, những người thường xuyên thức khuya rất dễ bị đốm và mụn trên mặt, axit citric có thể xóa mờ vết thâm và ngăn ngừa nám."
+      },
+      {
+        "id": 2,
+        "name": "Cam",
+        "image": "cam.png",
+        "price": 30000,
+        "describe": "Lượng nước lớn trong quả cam có thể giúp cải thiện tình trạng táo bón. Ngoài ra, cam cũng chính là tên gọi khác của vitamin C. Điều này có nghĩa là lượng vitamin C trong cam là cực kì nhiều. Vitamin C trong cam giúp da ngăn tác hại của ánh sáng mặt trời và và đặc biệt là bức xạ máy tính."
+      },
+      {
+        "id": 3,
+        "name": "Bơ",
+        "image": "bo.jpg",
+        "price": 40000,
+        "describe": "Một số nghiện cứu cũng cho thấy sử dụng loại trái cây này có thể hữu ích cho quá trình điều trị ung thư. Nó giúp bệnh nhân giảm được tác hại của xạ trị, hóa trị đến các tế bào bạch cầu lympho trong cơ thể, qua đó hạn chế được những tác dụng phụ không tốt cho người bệnh ung thư."
+      },
+      {
+        "id": 4,
+        "name": "Táo",
+        "image": "tao.jpg",
+        "price": 50000,
+        "describe": "Do thức khuya nên cơ thể chúng ta thường dễ dàng xuất hiện các triệu chứng như rối loạn nội tiết tố, béo phì, táo bón, hư da… Táo là loại trái cây cực tốt cho cơ thể, trong táo chứa rất nhiều axit hữu cơ, pectin, vitamin, khoáng chất, chất xơ, chất polyphenol và chất dinh dưỡng flavonoid, có thể giải quyết những tình trạng trên do thức khuya gây ra"
+      },
+      {
+        "id": "1050",
+        "name": "John Doe",
+        "image": "john.doe@example.com",
+        "price": 25000,
+        "describe": "mo tả"
+      },
+      {
+        "id": "e532",
+        "name": "John Doe",
+        "image": "john.doe@example.com",
+        "price": 25000,
+        "describe": "mo tả"
+      },
+      {
+        "name": "John Doe",
+        "image": "john.doe@example.com",
+        "price": 25000,
+        "describe": "mo tả",
+        "id": "-lH1AnZ"
+      },
+      {
+        "name": "John Doe",
+        "image": "john.doe@example.com",
+        "price": 25000,
+        "describe": "mo tả",
+        "id": "SH8JG8w"
+      },
+      {
+        "name": "John Doe",
+        "image": "john.doe@example.com",
+        "price": 25000,
+        "describe": "mo tả",
+        "id": "_b7coNP"
+      },
+      {
+        "name": "John Doe",
+        "image": "john.doe@example.com",
+        "price": 25000,
+        "describe": "mo tả",
+        "id": "IosFEiJ"
+      },
+      {
+        "name": "John Doe",
+        "image": "john.doe@example.com",
+        "price": 25000,
+        "describe": "mo tả",
+        "id": "c84I81R"
+      }
+    ]
+  }
