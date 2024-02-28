@@ -1,7 +1,13 @@
-API_URL = "http://localhost:3000";
-const dataList = 'data';
+API_URL = "http://localhost:3000/";
+const dataList = 'products';
 let listFruit;
 function getValue(){
+    //dùng thư viện axios gọi api
+    let html =`
+    
+    `;
+    let listData;
+
     axios({
         method:'GET',
         url: API_URL + dataList
